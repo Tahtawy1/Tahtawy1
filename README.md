@@ -16,9 +16,6 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
   
-  
-</p>
-
 ---
 
 
