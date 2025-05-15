@@ -2,8 +2,6 @@
 <h3 align="center">Flutter Developer & Competitive Programmer</h3>
 
 - 👨‍💻 Check out my projects on [my GitHub](https://github.com/tahtawy)
-- 📫 Reach me at: **your_email@example.com**
-- ⚡ Fun fact: I have 2 or 3 owls 🦉
 
 ---
 
@@ -21,15 +19,10 @@
 
 ---
 
-### 🏆 GitHub Trophies:
-![trophy](https://github-profile-trophy.vercel.app/?username=tahtawy)
-
----
-
 ### ✍️ Quote of the Day:
 > "Code never lies, comments sometimes do."
 
 ---
 
-### 😄 Personal:
+### 🕶 Personal:
 I'm a student at **FCI Minya**, preparing for **ECPC** 🚀
