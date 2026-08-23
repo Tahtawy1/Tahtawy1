@@ -1,9 +1,3 @@
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <img alt="tahtawy1's GitHub profile" src="dark_mode.svg" height= "400"  />
-</picture>
-</div>
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Taha+Sabry!;+Flutter+Developer" />
