@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <img alt="tahtawy1's GitHub profile" src="dark_mode.svg" height= "200" width= "200" />
+  <img alt="tahtawy1's GitHub profile" src="dark_mode.svg" height= "300"  />
 </picture>
 
 <div align="center">
